@@ -26,6 +26,8 @@ pip install requests beautifulsoup4 colorama
 ```
 
 ## Usage
+SHOW IN YOUTUBE
+https://youtu.be/1TP1Dmvm6jc?si=kALDwJu_rO_CUxzP
 
 1. **Clone the Repository:**
    ```bash
