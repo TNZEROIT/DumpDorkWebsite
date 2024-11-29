@@ -1,5 +1,7 @@
 # Google Dork Search Tool
-
+![Cuplikan Layar dari Aplikasi](https://github.com/TNZEROIT/DumpDorkWebsite/raw/main/Screenshot_20241129-171005.jpg)
+# RESSULT
+![Cuplikan Layar dari Aplikasi](https://github.com/TNZEROIT/DumpDorkWebsite/raw/main/Screenshot_20241129-171026.jpg)
 ## Overview
 
 This project is a Python-based tool designed to perform Google dork searches and automate the collection of URLs from Google search results. The tool is intended for educational purposes and comes with a strong warning against misuse.
@@ -9,7 +11,6 @@ This project is a Python-based tool designed to perform Google dork searches and
 - **Automated Google Dork Searching:** Perform Google searches using custom dork queries.
 - **Random User-Agent Rotation:** Use different user agents to mimic various browsers and reduce the risk of being blocked.
 - **Customizable Delays:** Set minimum and maximum delays between requests to respect Google's rate limits.
-- **Telegram Integration:** Automatically send the search results to a specified Telegram chat.
 - **Command-Line Interface:** Simple menu-driven interface for ease of use.
 - **File-Based Dork Input:** Option to read dork queries from a text file.
 
